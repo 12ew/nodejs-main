@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Abdoul Diallo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "nodejs-class-package": "github:12ew/nodejs-class#master"
+  }
 }
